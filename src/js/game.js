@@ -1,4 +1,3 @@
-"use strict";
 
 import Character from "./domain.js";
 
